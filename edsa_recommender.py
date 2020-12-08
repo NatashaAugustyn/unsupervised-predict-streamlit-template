@@ -104,9 +104,12 @@ def main():
         st.title("Solution Overview")
         st.write("Describe your winning approach on this page")
 
-    # You may want to add more sections here for aspects such as an EDA,
-    # or to provide your business pitch.
-
+    ## Introduction:
+	# Society has transformed from using the radio and watching live plays as a form of entertainment to watching television. 
+	# In a very short time we have changed to being able to get a personalised recommendation for movies or a tv show based n past preferences. 
+	# The way this approach works is by either looking at similar movies to what you have already selected, and in ths case by using the drop down 
+	# arrows in our Content-based selection or by collaborative-based whic is using other recommendations fromusers who has selected similar movies in 
+	# their drop down lists.
 
 if __name__ == '__main__':
     main()
